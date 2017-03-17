@@ -1,7 +1,6 @@
-﻿var inputs = document.getElementsByClassName('_42ft _4jy0 _4jy3 _517h _51sy');
+var inputs = document.getElementsByClassName('uiScrollableArea fade uiScrollableAreaWithShadow contentAfter')[0].getElementsByClassName('_42ft _4jy0 _4jy3 _517h _51sy');
 var scrool = document.getElementsByClassName('uiScrollableAreaWrap');
-var i = 2;
-//Bazı durumlarda i değerini 17 den başlatmak daha mantıklı çünkü sayfa editörüyse başka yerlere tıklayabiliyor
+var i = 0;
 
 var say=0
 var check = function(){
@@ -33,5 +32,5 @@ var check = function(){
 	}
 }
 
-//3000 değeri 3 saniyede bir yeni kişi davet edileceğini belirtiyor saniyeyi isteğe göre değiştirebilirsiniz
-var yenile = setInterval(check, 3000); 
+//1000 değeri 1 saniyede bir yeni kişi davet edileceğini belirtiyor saniyeyi isteğe göre değiştirebilirsiniz
+var yenile = setInterval(check, 1000); 
