@@ -2,9 +2,9 @@
 
 Facebookta öne çıkardığınız sponsorlu gönderileri beğenenleri otomatik davet etmek için javascript kodu. (It's a javascript code to invite automatically people who like your boosted post)
 
-![Facebook AutoInvite](https://bilalsaim.com/upload/news/facebook_sponsorlu_gonderi_davet_etme_kodu_h1623.jpg)
+![Facebook AutoInvite](https://www.bilalsaim.com/upload/news/facebookta_gonderiyi_paylasanlarin_listesini_alma_h1628.jpg)
 
-Detaylı Bilgi: [Tıklayın](https://bilalsaim.com/facebook-sponsorlu-gonderi-davet-etme-kodu-h1623)
+Detaylı Bilgi: [Tıklayın](https://www.bilalsaim.com/facebookta-gonderiyi-paylasanlarin-listesini-alma-h1628)
 
 ## Bilgiler
 
